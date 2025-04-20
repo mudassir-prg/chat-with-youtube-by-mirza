@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+embedchain[google]==0.1.79
+youtube-transcript-api==0.6.3
+google-generativeai>=0.3.0
+chromadb==0.4.24
+
+

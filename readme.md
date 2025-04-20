@@ -20,7 +20,7 @@ Streamlit app for chatting with YouTube video content using Google Gemini and RA
 ## Quick Start
 1. Clone repo:
 ```bash
-git clone https://github.com/mudassir-prg/mudassir_mirza_ai_agents.git
+git clone https://github.com/mudassir-prg/chat-with-youtube-by-mirza.git
 cd chat-with-youtube-gemini
 ```
 
